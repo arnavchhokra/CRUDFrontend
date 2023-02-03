@@ -1,0 +1,53 @@
+.Clients-Container {
+  display: flex;
+  flex-direction: column;
+  transition: "font-size 0.5s ease-in-out";
+}
+.Clients-Sub {
+  padding: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.Clients-Sub input {
+  margin-left: 9px;
+  height: 30px;
+  min-width: 250px;
+}
+.Clients-Sub button {
+  display: flex;
+  justify-content: space-between;
+  color: black;
+  background-color: white;
+  padding: 15px;
+  gap: 15px;
+}
+
+.Clients-Details {
+  border-bottom: 1px solid black;
+  padding: 5px;
+}
+.Clients-Home {
+  width: 100%;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.Clients-Head {
+  font-weight: bold;
+  font-size: 50px;
+  border-bottom: 1px solid black;
+  margin-bottom: 15px;
+}
+.Clients-Details table {
+}
+.Clients-Details td {
+  text-align: center;
+  padding: 10px;
+}
+
+.Clients-Details td button {
+  border: None;
+  background-color: white;
+}

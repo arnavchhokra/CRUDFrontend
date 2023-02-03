@@ -1,0 +1,20 @@
+.Sidebar-Container {
+  display: flex;
+  flex-direction: column;
+}
+
+.Sidebar-Home {
+  background-color: #363740;
+  flex-direction: column;
+  max-width: 15%;
+  height: 66vh;
+}
+.Sidebar-Container a {
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: None;
+  display: flex;
+  justify-content: flex-start;
+  gap: 5px;
+}
