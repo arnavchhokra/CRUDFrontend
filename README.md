@@ -1,7 +1,7 @@
 # CRUDFrontend
  Assignment for Internship
  
-  ![Alt text](Assignment/Image Base.jpg)
+  ![Alt text](https://github.com/arnavchhokra/CRUDFrontend/blob/c51fffabd2a680143783e5c8e6b3ac2318478e7e/Assignment/Image%20Base.jpg)
   
   
  
@@ -18,7 +18,7 @@
  
  
  After Deleting lead
- ![Alt text](Assignment/Add.jpg)
+ ![Alt text](Assignment/AfterDelete.jpg)
 
    
    
